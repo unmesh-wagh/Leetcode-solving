@@ -5,12 +5,14 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0238-product-of-array-except-self) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0075-sort-colors) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -35,4 +37,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
