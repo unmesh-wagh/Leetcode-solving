@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
@@ -69,4 +71,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0455-assign-cookies](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0890-lemonade-change) |
+## Hash Table
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0049-group-anagrams) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
