@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0238-product-of-array-except-self) |
+| [0347-top-k-frequent-elements](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0890-lemonade-change) |
 ## Two Pointers
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0049-group-anagrams](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0075-sort-colors) |
+| [0347-top-k-frequent-elements](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
 |  |
@@ -76,9 +78,30 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0049-group-anagrams) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
