@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0094-binary-tree-inorder-traversal](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0145-binary-tree-postorder-traversal) |
+| [0678-valid-parenthesis-string](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0678-valid-parenthesis-string) |
 ## Tree
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0678-valid-parenthesis-string](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0678-valid-parenthesis-string) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0890-lemonade-change) |
 ## Hash Table
 |  |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0020-valid-parentheses](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0049-group-anagrams) |
+| [0678-valid-parenthesis-string](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0678-valid-parenthesis-string) |
 ## Divide and Conquer
 |  |
 | ------- |
