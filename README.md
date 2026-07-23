@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0347-top-k-frequent-elements) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0049-group-anagrams](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0049-group-anagrams](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -109,6 +113,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
