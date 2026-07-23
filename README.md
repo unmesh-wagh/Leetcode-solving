@@ -13,12 +13,14 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0347-top-k-frequent-elements](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0890-lemonade-change) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0455-assign-cookies) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0347-top-k-frequent-elements) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
