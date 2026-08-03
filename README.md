@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0075-sort-colors](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0128-longest-consecutive-sequence) |
+| [0152-maximum-product-subarray](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0238-product-of-array-except-self) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0152-maximum-product-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0678-valid-parenthesis-string) |
 ## Breadth-First Search
 |  |
