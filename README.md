@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0152-maximum-product-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0678-valid-parenthesis-string) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -170,5 +172,6 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
