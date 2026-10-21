@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0128-longest-consecutive-sequence](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0283-move-zeroes) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0026-remove-duplicates-from-sorted-array](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0455-assign-cookies) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0287-find-the-duplicate-number) |
 | [0907-koko-eating-bananas](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/1056-capacity-to-ship-packages-within-d-days) |
