@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0455-assign-cookies) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0020-valid-parentheses](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0125-valid-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0678-valid-parenthesis-string) |
 ## Divide and Conquer
 |  |
