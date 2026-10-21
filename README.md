@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0128-longest-consecutive-sequence) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0152-maximum-product-subarray) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
