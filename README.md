@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0287-find-the-duplicate-number](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0455-assign-cookies) |
+| [0643-maximum-average-subarray-i](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0643-maximum-average-subarray-i) |
 | [0890-lemonade-change](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -185,4 +186,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0070-climbing-stairs](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/1013-fibonacci-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/unmesh-wagh/Leetcode-solving/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
